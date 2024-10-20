@@ -10,9 +10,9 @@ I am seeking PhD opportunities in quantum information and computation for the Fa
 ***
 
 ## Research Interest
-- I am vastly interested in the domain of quantum sciences, including,  but not limited to, quantum information theory, quantum machine learning, quantum state tomography, and quantum error mitigation. I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on quantum machine learning algorithms under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. 
+- I am vastly interested in the domain of quantum sciences, especially quantum information theory, quantum error correction, quantum error mitigation, and quantum state tomography.
 
-- My research interests are currently aimed at learning broader disciplines of quantum information and computation and using them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
+- I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on variational quantum computing under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. Currently, my research interests are  aimed at learning broader disciplines of quantum information and computation and using them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
 
 ***
 
@@ -35,11 +35,6 @@ I am working on a research project with [Sowmitra Das](https://scholar.google.co
 Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TENCON 2023-2023 IEEE Region 10 Conference (TENCON) (pp. 1-5) [IEEE](https://ieeexplore.ieee.org/abstract/document/10322543).
 
 
-
-
-
-
-
 ***
 
 ## Test Score
@@ -58,7 +53,7 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
    At BRAC University, I have co-designed the CSE 481 (Quantum Computing 1) course and offered it after a year of dormancy. We strive to promote and educate quantum computing 1 to undergraduates from different backgrounds. 
    I am also co-organizing a lecture series on Quantum Information by Dr. Tibra Ali, a weekly open-to-all lecture series with meet and greet of students from all over Bangladesh interested in learning quantum computing. I aim to promote, educate, and teach quantum computation and information to the new generation of bright Bangladeshi Undergraduates.
-   I have co-supervised 2 undergraduate thesis groups on quantum variational algorithms.
+   I have co-supervised two undergraduate thesis groups on quantum variational algorithms.
 
 
 
