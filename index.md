@@ -18,10 +18,7 @@ I am seeking PhD opportunities in quantum information and computation for the Fa
 
 ## Current Work
 
-1. I am working on a research project with [Sowmitra Das](https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en), a visiting researcher at Imperial College London, on using shadow tomography and classical machine learning to facilitate quantum error mitigation on noisy quantum circuits. We believe that shadow tomography offers tremendous possibilities and hope to show that it can be the answer to developing state-of-the-art error mitigation techniques.
-   
-2. I am also involved in a new research project with [Dr. Fattah](https://scholar.google.com/citations?hl=en&user=qDG3vBUAAAAJ), which aims to develop various algorithms for the dimension reduction of classical data using quantum learning networks. In the latter stages, the reduced versions of the classical data can be processed by NISQ quantum networks; this method would provide an intelligent quantum alternative to classical autoencoders, which are computationally costlier and involve training many parameters. Currently, we are writing a paper presenting our promising findings.
-
+I am working on a research project with [Sowmitra Das](https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en), a visiting researcher at Imperial College London, on using shadow tomography and classical machine learning to facilitate quantum error mitigation on noisy quantum circuits. We believe that shadow tomography offers tremendous possibilities and hope to show that it can be the answer to developing state-of-the-art error mitigation techniques.
 
 ***     
 
