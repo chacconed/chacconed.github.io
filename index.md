@@ -100,6 +100,17 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 ***
 
+## Talks and Conferences Attended:
+   -TQC 2024: Attended various talks and participated in poster sessions.
+
+
+   -IEEE TENCON 2023: Presented a paper on quantum machine learning.
+
+   -IUB Summer School 2024: Glimpses into the Quantum World - Information, Technology, and Applications}: Attended the summer school arranged by the Independent University of Bangladesh (IUB) on quantum information and computation. Lectures were provided by Dr. Leong Chuan Kwek (National University of Singapore) and Dr. Subhro Bhattacharjee (International Centre for Theoretical Sciences).
+
+
+***
+
 
 ## Selected Academic Projects
 
