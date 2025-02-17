@@ -3,7 +3,7 @@
 ***
 
 # About
-I am Jishnu Mahmud, a junior lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at Bangladesh University of Engineering and Technology (BUET). I earned my BSc in Electrical and Electronic Engineering (EEE) from BUET, specializing in Communication and Signal Processing, where I ranked 2nd in my major group and placed in the top 10% across all EEE majors.
+I am Jishnu Mahmud, a lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at Bangladesh University of Engineering and Technology (BUET). I earned my BSc in Electrical and Electronic Engineering (EEE) from BUET, specializing in Communication and Signal Processing, where I ranked 2nd in my major group and placed in the top 10% across all EEE majors.
 
 My research focuses on quantum information and computation, and I am currently seeking PhD opportunities for Fall 2025 in these areas.
 
