@@ -44,6 +44,23 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 ***
 
+## Education
+
+   - **Bachelor of Science, Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET)** - (_graduated June 2023_)
+      - Major- Communication & Signal Processing
+      - Academic Thesis: Quantum Information Processing
+      - CGPA: 3.87/4.00 (Ranked 2nd in my major, top 10% across all majors in the Dept. of EEE)
+   
+   - **International Advanced Level (IAL) from Mastermind English Medium School**
+      - A* grade in Mathematics, Physics, Chemistry & Further Mathematics
+      - World Highest Score in Mathematics
+   
+   - **International General Certificate of Secondary Education (IGCSE) from South Breeze School** 
+      - A* grade in Mathematics, Pure Mathematics, Physics, Chemistry, Biology & Bengali
+      - A grade in English Language, Accounting & Economics
+
+
+***
 
 ## Work Experience
 
@@ -81,24 +98,6 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 ***
 
-  
-## Education
-
-   - **Bachelor of Science, Electrical and Electronic Engineering (EEE) from Bangladesh University of Engineering and Technology (BUET)** - (_graduated June 2023_)
-      - Major- Communication & Signal Processing
-      - Academic Thesis: Quantum Information Processing
-      - CGPA: 3.87/4.00 (Ranked 2nd in my major, top 10% across all majors in the Dept. of EEE)
-   
-   - **International Advanced Level (IAL) from Mastermind English Medium School**
-      - A* grade in Mathematics, Physics, Chemistry & Further Mathematics
-      - World Highest Score in Mathematics
-   
-   - **International General Certificate of Secondary Education (IGCSE) from South Breeze School** 
-      - A* grade in Mathematics, Pure Mathematics, Physics, Chemistry, Biology & Bengali
-      - A grade in English Language, Accounting & Economics
-
-
-***
 
 ## Talks and Conferences Attended:
    - TQC 2024: Attended various talks and participated in poster sessions.
