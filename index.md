@@ -14,13 +14,7 @@ My research focuses on quantum information and computation, and I am currently s
 
 - I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on variational quantum computing under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. Currently, my research interests aim to learn broader disciplines of quantum information and computation and use them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
 
-***
-
-## Current Work
-
-I am working on a research project with [Sowmitra Das](https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en), a visiting researcher at Imperial College London, on using shadow tomography and classical machine learning to facilitate quantum error mitigation on noisy quantum circuits. We believe that shadow tomography offers tremendous possibilities and hope to show that it can be the answer to developing state-of-the-art error mitigation techniques.
-
-***     
+***    
 
 ## Publications & Preprints
 
@@ -36,6 +30,12 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 
 ***
+
+## Current Work
+
+I am working on a research project with [Sowmitra Das](https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en), a visiting researcher at Imperial College London, on using shadow tomography and classical machine learning to facilitate quantum error mitigation on noisy quantum circuits. We believe that shadow tomography offers tremendous possibilities and hope to show that it can be the answer to developing state-of-the-art error mitigation techniques.
+
+*** 
 
 ## Test Score
 
