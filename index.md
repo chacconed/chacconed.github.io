@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7d444bed-b2f3-4b0e-a7b5-55072c1853c6)# Curriculum Vitae
+# Curriculum Vitae
 
 ***
 
