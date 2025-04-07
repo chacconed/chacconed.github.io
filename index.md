@@ -1,18 +1,17 @@
-# Curriculum Vitae
+![image](https://github.com/user-attachments/assets/7d444bed-b2f3-4b0e-a7b5-55072c1853c6)# Curriculum Vitae
 
 ***
 
 # About
-I am Jishnu Mahmud, a lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/). I earned my BSc in Electrical and Electronic Engineering (EEE) from BUET, specializing in Communication and Signal Processing, where I ranked 2nd in my major group and placed in the top 10% across all EEE majors.
+I am Jishnu Mahmud, a lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/). I earned my BSc in Electrical and Electronic Engineering (EEE) from BUET, specializing in Communication and Signal Processing. I ranked 2nd in my major group and placed in the top 10% across all EEE majors.
 
 My research focuses on quantum information and computation, and I am currently seeking PhD opportunities for Fall 2025 in these areas.
 
 ***
 
 ## Research Interest
-- I am vastly interested in the domain of quantum sciences, especially quantum information theory, quantum algorithms, quantum error correction, quantum cryptography, and quantum state tomography.
 
-- I did my undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) on variational quantum computing under the supervision of Dr. Fattah. It has now been published by Quantum Machine Intelligence by Springer Nature. Currently, my research interests aim to learn broader disciplines of quantum information and computation and use them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
+- My undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) was on variational quantum computing. It has now been published by Quantum Machine Intelligence by Springer Nature. Currently, my research interests aim to learn broader disciplines of quantum information and computation and use them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
 
 ***    
 
@@ -66,30 +65,23 @@ I am working on a research project with [Sowmitra Das](https://scholar.google.co
 
    - [BRAC University](https://cse.sds.bracu.ac.bd/faculty_profile/87/jishnu_mahmud) - (_June 2023 - current_)
       - Lecturer, Computer Science and Engineering, School of Data and Sciences 
-         - I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE350: Digital Electronics and Pulse Techniques.
-
-   At BRAC University, I have co-designed the CSE 481 (Quantum Computing 1) course and offered it after a year of dormancy. We strive to promote and educate quantum computing 1 to undergraduates from different backgrounds. 
-   I am also co-organizing a lecture series on Quantum Information by Dr. Tibra Ali, a weekly open-to-all lecture series with meet and greet of students from all over Bangladesh interested in learning quantum computing. I aim to promote, educate, and teach quantum computation and information to the new generation of bright Bangladeshi Undergraduates.
-   I have co-supervised two undergraduate thesis groups on quantum variational algorithms.
-
+         - I teach physics and computer science undergraduates CSE481: Quantum Computation and Information 1 and CSE482: Quantum Information 2
+         - I have co-designed the CSE 481 (Quantum Computing 1) course.
+         - I am the co-organizer of the open-to-all lecture series on quantum information by Dr. Tibra Ali.
+         - I have co-supervised two undergraduate thesis groups on quantum variational algorithms.
 
 
-   
    - [Bangladesh University of Engineering and Technology](https://www.buet.ac.bd/web/#/) - (_June 2023 - current_)
       - Research Assistant (RA) at [Institute of Robotics and Automation](https://irab.buet.ac.bd/)
            under Dr. Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf)
          - I work with Dr. Fattah to develop quantum machine learning algorithms to process classical data.
 
-
-   
    
    - [Edbase](https://edbaseprofessionals.com/) - (_August 2017 - October 2018_)
       - Teaching Assistant (TA)
          - I worked here as a teaching assistant to help high school students learn IAL physics.
 
 
-   
-   
    - [Classical Music Academy of Dhaka](https://www.youtube.com/watch?v=k_fRFAgh3mk) - (_January 2016 - May 2018_)
       - Teaching Assistant (TA)
          - I worked here as a teaching assistant, helping students learn Western classical guitar and the basics of music theory.
