@@ -34,7 +34,7 @@ I am working on a research project with [Sowmitra Das](https://scholar.google.co
 
 ## Test Score
 
-1. TOEFL: 116/120 (Reading: 30/30, Listening: 30/30, Speaking: 27/30, Writing: 29/30)
+   - TOEFL: 116/120 (Reading: 30/30, Listening: 30/30, Speaking: 27/30, Writing: 29/30)
 
 
 ***
@@ -101,18 +101,9 @@ I am working on a research project with [Sowmitra Das](https://scholar.google.co
 
 ## Academic achievements
 
+- Dean’s List Award (All Undergraduate Levels)
 - University Merit Undergraduate Scholarship (1st & 2nd semester)
-   - Awarded to the top 5% of students of a Department in a Semester
 - University Stipend Undergraduate Scholarship (3rd, 5th, 6th & 7th Semester)
-   - Awarded to the top 10% of students of a Department in a Semester
-- Dean’s List Award (Undergraduate Levels 1, 2, 3 & 4)
-   - Awarded to students securing a GPA of at least 3.75/4.00 in an academic year
-- World Highest Edexcel Award for International Advanced Level Mathematics (2017)
-  - Awarded to the student scoring the highest in a particular subject
-- Edexcel Award (2017 & 2015)
-  - Awarded to the students scoring four ’A’ grades or more in A Levels and 6 ’A’ Grades in O levels
-- The Daily Star Award (2017 & 2015)
-  - Awarded to the students scoring four ’A’ grades or more in A Levels and 7 ’A’ Grades in O levels
 
 
 ***
