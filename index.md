@@ -3,15 +3,11 @@
 ***
 
 # About
-I am Jishnu Mahmud, a lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/). I earned my BSc in Electrical and Electronic Engineering (EEE) from BUET, specializing in Communication and Signal Processing. I ranked 2nd in my major group and placed in the top 10% across all EEE majors.
+I am Jishnu Mahmud, a lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/). I earned my BSc in Electrical and Electronic Engineering (EEE) from BUET, specializing in Communication and Signal Processing.
 
-My research focuses on quantum information and computation, and I will be joining The University of Tennessee to pursue a PhD on Quantum Algorithms under Dr. Rebekah Herrman and Dr. James Ostrowski this autumn.
+My research focuses on quantum information and computation, and I will be joining the University of Tennessee this autumn to pursue a PhD in quantum algorithms under the supervision of Dr. Rebekah Herrman and Dr. James Ostrowski.
 
-***
 
-## Research Interest
-
-- My undergraduate [thesis](https://link.springer.com/article/10.1007/s42484-024-00145-4) was on variational quantum computing. It has now been published by Quantum Machine Intelligence by Springer Nature. Currently, my research interests aim to learn broader disciplines of quantum information and computation and use them to develop techniques that would take significant steps to harness the power of quantum machines. I am curious about the domain of problems where quantum machines may outperform the classical computer and devising various methods by which we can attain these goals.
 
 ***    
 
@@ -121,30 +117,9 @@ I am working on a research project with [Sowmitra Das](https://scholar.google.co
 
 ***
 
-## Selected Academic Projects
-
-Here are some of the projects I did during my undergrad. Some were course requirements, some collaborated with friends, and others were to learn a particular topic.
-
-1. [Complete (Transient and Steady State) response of variable multinodal circuits](https://github.com/chacconed/Complete-Transient-and-Steady-State-response-of-variable-multinodal-circuits): We designed software to visualize the response of any passive network defined by the user using a developed graphical user interface. The code used Laplace and   Fourier Transformations to solve RLC electrical circuits.
-
-2. [Speech-emotion detection- Benchmarking the RAVDESS dataset using convolutional neural networks](https://github.com/chacconed/Speech-Emotion-Recognition-on-Ravdess): I designed a convolutional neural network to classify speech data by emotions. The data was preprocessed by several signal processing techniques, which were used to extract a feature matrix fed to the designed CNN structure to attain competitive results.
-
-4. [Intelligent Traffic Control](https://github.com/chacconed/Intelligent-Traffic-Control-a-DLD-project): We designed an intelligent traffic system sensitive to various parameters such as volume, flow, and human emergencies using sequential logical circuits and finite state machines (FSM).
-
-5. [Biometric Fingerprint Sensor Attendance System with Fever Detection—An IOT-based solution](https://github.com/chacconed/IOT-based-Fingerprint-system-Poject-) (Microprocessor & Embedded system project): We developed a fingerprint attendance system using NodeMCU and Arduino. We further designed a server running hypertext protocols (HTTP) to request to read and write data to the database once the device was connected to a computer.
-
-6. Investigating the effects of HVDC connection and large industrial loads in IEEE 39-bus networking using PSAF: We investigated the various types of faults occurring under different loading conditions in a multi-bus power system.
-
-7. Design of a power system to drive a centrifugal pump for agricultural irrigation: We designed a squirrel cage induction motor controlled by intelligent switches serving as a control system for maintaining optimum water levels required for 
-agricultural irrigation.
-
-
-***
-
-
 ## Other Interests
    
    - Besides my academic interests, I am a classical guitarist at the [Classical Music Academy of Dhaka](https://www.youtube.com/c/ClassicalMusicAcademyofDhaka). I love playing and watching
-   football (soccer) and passionately follow the Manchester United football club. Additionally, I love to do street and portrait photography and collect old film cameras, watches, LP records, and pens!
+   football (soccer) and passionately follow the Manchester United football club ( :'( ). Additionally, I love to do street and portrait photography and collect old film cameras, watches, LP records, and pens!
 
 
