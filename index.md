@@ -3,9 +3,9 @@
 ***
 
 # About
-I am Jishnu Mahmud, a lecturer at BRAC University and a research assistant under Professor Shaikh Anowarul [Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), PhD, at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/). I earned my BSc in Electrical and Electronic Engineering (EEE) from BUET, specializing in Communication and Signal Processing.
+I am Jishnu Mahmud, a lecturer at BRAC University and a research assistant under [Dr. Shaikh Anowarul Fattah](https://eee.buet.ac.bd/people/faculty/dsaf), at [Bangladesh University of Engineering and Technology (BUET)](https://www.buet.ac.bd/web/). I earned my BSc in Electrical and Electronic Engineering (EEE) from BUET, specializing in Communication and Signal Processing.
 
-My research focuses on quantum information and computation, and I will be joining the [University of Tennessee](https://www.utk.edu/) this autumn to pursue a PhD in quantum algorithms under the supervision of Dr. Rebekah Herrman and Dr. James Ostrowski.
+My research focuses on quantum information and computation, and I will be joining the [University of Tennessee](https://www.utk.edu/) this autumn to pursue a PhD in quantum algorithms under the supervision of [Dr. Rebekah Herrman](https://tickle.utk.edu/ise/faculty/rebekah-herrman/) and [Dr. James Ostrowski](https://quantum.utk.edu/people/jim-ostrowski/).
 
 
 
