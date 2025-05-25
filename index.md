@@ -28,7 +28,7 @@ Mashtura, R., **Mahmud, J.,** Fattah, S.A. and Saquib, M., 2023, October. In TEN
 
 ## Current Work
 
-I am working on a research project with [Sowmitra Das](https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en), a visiting researcher at Imperial College London, on using shadow tomography and classical machine learning to facilitate quantum error mitigation on noisy quantum circuits. We believe that shadow tomography offers tremendous possibilities and hope to show that it can be the answer to developing state-of-the-art error mitigation techniques.
+I am working on a research project with [Sowmitra Das](https://scholar.google.com/citations?user=PMEfuyEAAAAJ&hl=en), a visiting researcher at Imperial College London.
 
 *** 
 
